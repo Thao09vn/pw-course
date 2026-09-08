@@ -43,5 +43,13 @@
             - `!=` chỉ so sánh giá trị
     - Toán tử `AND` và `OR`: sử dụng khi có kết hợp nhiều điều kiện 1 lúc, kết quả trả về ở dạng `true/false`
     - Toán tử 1 ngôi `++x`tăng x lên 1 rồi gán lại cho x hoặc   `x++`: gán x=x trước rồi mới tăng sau.
+    - câu điều kiện if: kiểm tra điều kiện nếu đúng thì chạy
 
+## 4. JavaScript Convention
+    - Quy tắc đặt tên theo quy định ở lớp học:
+                      snake_case:tất cả viết thường, các từ cách nhau bởi dấu gạch dưới
+                      kebad-case: đặt tên file,folder: tất cả viết thường, các từ cách nhau bởi dấu gạch ngang
+                      camelCase: đặt tên biến, hàm: chữ đầu viết thường, các chữ sau của từ thứ 2 thì viết hoa chũ đầu tiên phuongThao
+                      PascalCase: đặt tên class: tất cả chữ cái đầu của từ viết hoa PhuongThao
+                      upperCase: tất cả viết hoa, các từ cách nhau dấu gạch dưới
                             
