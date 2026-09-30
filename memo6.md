@@ -21,5 +21,22 @@
         **Tạo nhánh mới:** git branch tên nhánh ( phải tạo nhánh từ nhánh main)
         ** chuyển sang làm việc tại nhánh mới tạo:** git checkout tên nhánh
         ** vừa tạo nhánh mới vừa chuyển sang làm việc tại nhánh mới** git checkout -b thao2
+### Javascript
+   #### 1. Class:
+       - Tạo ra 1 class
+       - Cú pháp: class Xe {
+                                maLuc: number;
+                                mauSac:string;
+                                constructor(maLuc:number,mauSac:string){
+                                this.maLuc=maLuc;
+                                this.mauSac=mauSac;
+                                }
+                                }
+                        const xe1=new Xe(1000,"Xanh");
+                        const xe2=new Xe(2000,"Do");
+        Method: hành động      
+        Cú pháp:        doiDiaChi(newAddress:string){
+                        this.address=newAddress
+                         }                 
         
 
